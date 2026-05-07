@@ -1,0 +1,98 @@
+{
+  "project": "政协委员通",
+  "generatedAt": "2026-04-23 10:03:51",
+  "root": "data/政协委员通",
+  "sections": [
+    {
+      "title": "委员之家",
+      "slug": "weiyuanzhijia",
+      "folder": "01-委员之家",
+      "index": "01-委员之家/index.json",
+      "counts": {
+        "tables": 3,
+        "documents": 0,
+        "jsonFiles": 0,
+        "files": 0,
+        "images": 0
+      }
+    },
+    {
+      "title": "街道委员小组",
+      "slug": "jiedaoweiyuanxiaozu",
+      "folder": "02-街道委员小组",
+      "index": "02-街道委员小组/index.json",
+      "counts": {
+        "tables": 0,
+        "documents": 0,
+        "jsonFiles": 0,
+        "files": 1,
+        "images": 0
+      }
+    },
+    {
+      "title": "界别基本情况",
+      "slug": "jiebiejibenqingkuang",
+      "folder": "03-界别基本情况",
+      "index": "03-界别基本情况/index.json",
+      "counts": {
+        "tables": 0,
+        "documents": 1,
+        "jsonFiles": 0,
+        "files": 0,
+        "images": 50
+      }
+    },
+    {
+      "title": "新时代协商民主实践分中心",
+      "slug": "fenzhongxin",
+      "folder": "04-新时代协商民主实践分中心",
+      "index": "04-新时代协商民主实践分中心/index.json",
+      "counts": {
+        "tables": 1,
+        "documents": 2,
+        "jsonFiles": 0,
+        "files": 0,
+        "images": 15
+      }
+    },
+    {
+      "title": "委员履职平台",
+      "slug": "weiyuanlvzhipingtai",
+      "folder": "05-委员履职平台",
+      "index": "05-委员履职平台/index.json",
+      "counts": {
+        "tables": 1,
+        "documents": 1,
+        "jsonFiles": 1,
+        "files": 0,
+        "images": 26
+      }
+    },
+    {
+      "title": "星级委员工作室风采",
+      "slug": "xingjiweiyuangongzuoshifengcai",
+      "folder": "06-星级委员工作室风采",
+      "index": "06-星级委员工作室风采/index.json",
+      "counts": {
+        "tables": 0,
+        "documents": 0,
+        "jsonFiles": 0,
+        "files": 1,
+        "images": 0
+      }
+    },
+    {
+      "title": "2026年履职计划",
+      "slug": "2026lvzhijihua",
+      "folder": "07-2026年履职计划",
+      "index": "07-2026年履职计划/index.json",
+      "counts": {
+        "tables": 2,
+        "documents": 0,
+        "jsonFiles": 0,
+        "files": 0,
+        "images": 0
+      }
+    }
+  ]
+}

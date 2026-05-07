@@ -1,0 +1,24 @@
+{
+  "title": "街道委员小组",
+  "slug": "jiedaoweiyuanxiaozu",
+  "sourceFolder": "素材/政协委员通/data/2. 街道委员小组",
+  "outputFolder": "data/政协委员通/02-街道委员小组",
+  "tables": [],
+  "documents": [],
+  "jsonFiles": [],
+  "files": [
+    {
+      "title": "14个街道",
+      "file": "files/14个街道.pdf",
+      "sourceRelativePath": "14个街道.pdf"
+    }
+  ],
+  "images": [],
+  "counts": {
+    "tables": 0,
+    "documents": 0,
+    "jsonFiles": 0,
+    "files": 1,
+    "images": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "2026年履职计划",
+  "slug": "2026lvzhijihua",
+  "sourceFolder": "素材/政协委员通/data/7. 2026年履职计划",
+  "outputFolder": "data/政协委员通/07-2026年履职计划",
+  "tables": [
+    {
+      "title": "2026年各街道“民生议事堂”议事计划",
+      "file": "tables/2026年各街道“民生议事堂”议事计划.json",
+      "sheetCount": 2
+    },
+    {
+      "title": "2026年各界别履职计划",
+      "file": "tables/2026年各界别履职计划.json",
+      "sheetCount": 1
+    }
+  ],
+  "documents": [],
+  "jsonFiles": [],
+  "files": [],
+  "images": [],
+  "counts": {
+    "tables": 2,
+    "documents": 0,
+    "jsonFiles": 0,
+    "files": 0,
+    "images": 0
+  }
+}

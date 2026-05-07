@@ -1,0 +1,13 @@
+*
+!.gitignore
+!.nojekyll
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
+!index.html
+!scripts/
+scripts/*
+!scripts/homepage.js
+!data/
+!data/政协委员通/
+!data/政协委员通/**

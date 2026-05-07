@@ -1,0 +1,325 @@
+{
+  "title": "界别基本情况",
+  "slug": "jiebiejibenqingkuang",
+  "sourceFolder": "素材/政协委员通/data/3. 界别基本情况",
+  "outputFolder": "data/政协委员通/03-界别基本情况",
+  "tables": [],
+  "documents": [
+    {
+      "title": "1.各界别情况介绍",
+      "file": "documents/1.各界别情况介绍.json",
+      "paragraphCount": 96
+    }
+  ],
+  "jsonFiles": [],
+  "files": [],
+  "images": [
+    {
+      "name": "353cd94f8a4dc02a2e821a5ba8ab043",
+      "file": "images/活动照片/10经济/353cd94f8a4dc02a2e821a5ba8ab043.webp",
+      "sourceRelativePath": "活动照片/10经济/353cd94f8a4dc02a2e821a5ba8ab043.webp",
+      "group": "活动照片/10经济"
+    },
+    {
+      "name": "619ee9289835d103c435f174c1e0cff",
+      "file": "images/活动照片/10经济/619ee9289835d103c435f174c1e0cff.webp",
+      "sourceRelativePath": "活动照片/10经济/619ee9289835d103c435f174c1e0cff.webp",
+      "group": "活动照片/10经济"
+    },
+    {
+      "name": "3f7343aec8231bde22a668a4e17d149a",
+      "file": "images/活动照片/11环境资源和农业/3f7343aec8231bde22a668a4e17d149a.webp",
+      "sourceRelativePath": "活动照片/11环境资源和农业/3f7343aec8231bde22a668a4e17d149a.webp",
+      "group": "活动照片/11环境资源和农业"
+    },
+    {
+      "name": "42e4ebbcbe8d12cf29a4876baecaca2a",
+      "file": "images/活动照片/11环境资源和农业/42e4ebbcbe8d12cf29a4876baecaca2a.webp",
+      "sourceRelativePath": "活动照片/11环境资源和农业/42e4ebbcbe8d12cf29a4876baecaca2a.webp",
+      "group": "活动照片/11环境资源和农业"
+    },
+    {
+      "name": "82cf6d0fbeb3c41a443b837ff9927617",
+      "file": "images/活动照片/11环境资源和农业/82cf6d0fbeb3c41a443b837ff9927617.webp",
+      "sourceRelativePath": "活动照片/11环境资源和农业/82cf6d0fbeb3c41a443b837ff9927617.webp",
+      "group": "活动照片/11环境资源和农业"
+    },
+    {
+      "name": "db8232e0c5d40a94e9fbcf8c9dfaee8",
+      "file": "images/活动照片/11环境资源和农业/db8232e0c5d40a94e9fbcf8c9dfaee8.webp",
+      "sourceRelativePath": "活动照片/11环境资源和农业/db8232e0c5d40a94e9fbcf8c9dfaee8.webp",
+      "group": "活动照片/11环境资源和农业"
+    },
+    {
+      "name": "2f41c28d4b53804fb60bb6ef196c54a4",
+      "file": "images/活动照片/12教育/2f41c28d4b53804fb60bb6ef196c54a4.webp",
+      "sourceRelativePath": "活动照片/12教育/2f41c28d4b53804fb60bb6ef196c54a4.webp",
+      "group": "活动照片/12教育"
+    },
+    {
+      "name": "IMG_2126",
+      "file": "images/活动照片/12教育/IMG_2126.webp",
+      "sourceRelativePath": "活动照片/12教育/IMG_2126.webp",
+      "group": "活动照片/12教育"
+    },
+    {
+      "name": "IMG_0853.HEIC",
+      "file": "images/活动照片/13医卫/IMG_0853.HEIC.webp",
+      "sourceRelativePath": "活动照片/13医卫/IMG_0853.HEIC.webp",
+      "group": "活动照片/13医卫"
+    },
+    {
+      "name": "IMG20240527105848",
+      "file": "images/活动照片/13医卫/IMG20240527105848.webp",
+      "sourceRelativePath": "活动照片/13医卫/IMG20240527105848.webp",
+      "group": "活动照片/13医卫"
+    },
+    {
+      "name": "IMG20240527161315",
+      "file": "images/活动照片/13医卫/IMG20240527161315.webp",
+      "sourceRelativePath": "活动照片/13医卫/IMG20240527161315.webp",
+      "group": "活动照片/13医卫"
+    },
+    {
+      "name": "IMG20240527170959",
+      "file": "images/活动照片/13医卫/IMG20240527170959.webp",
+      "sourceRelativePath": "活动照片/13医卫/IMG20240527170959.webp",
+      "group": "活动照片/13医卫"
+    },
+    {
+      "name": "联动邵逸夫医院，开展“以爱之名”等残疾人画展及手工艺品义卖活动",
+      "file": "images/活动照片/14社会福利和保障/联动邵逸夫医院，开展“以爱之名”等残疾人画展及手工艺品义卖活动.webp",
+      "sourceRelativePath": "活动照片/14社会福利和保障/联动邵逸夫医院，开展“以爱之名”等残疾人画展及手工艺品义卖活动.webp",
+      "group": "活动照片/14社会福利和保障"
+    },
+    {
+      "name": "区政府副主席范国良与政协委员参观社会福利和保障界别委员工作室",
+      "file": "images/活动照片/14社会福利和保障/区政府副主席范国良与政协委员参观社会福利和保障界别委员工作室.webp",
+      "sourceRelativePath": "活动照片/14社会福利和保障/区政府副主席范国良与政协委员参观社会福利和保障界别委员工作室.webp",
+      "group": "活动照片/14社会福利和保障"
+    },
+    {
+      "name": "社会福利和保障界别委员联系界别群众参加党纪学习教育",
+      "file": "images/活动照片/14社会福利和保障/社会福利和保障界别委员联系界别群众参加党纪学习教育.webp",
+      "sourceRelativePath": "活动照片/14社会福利和保障/社会福利和保障界别委员联系界别群众参加党纪学习教育.webp",
+      "group": "活动照片/14社会福利和保障"
+    },
+    {
+      "name": "IMG_20240315_085702",
+      "file": "images/活动照片/15民宗/IMG_20240315_085702.webp",
+      "sourceRelativePath": "活动照片/15民宗/IMG_20240315_085702.webp",
+      "group": "活动照片/15民宗"
+    },
+    {
+      "name": "IMG_20240618_095251",
+      "file": "images/活动照片/15民宗/IMG_20240618_095251.webp",
+      "sourceRelativePath": "活动照片/15民宗/IMG_20240618_095251.webp",
+      "group": "活动照片/15民宗"
+    },
+    {
+      "name": "开展读书会",
+      "file": "images/活动照片/16特邀/开展读书会.webp",
+      "sourceRelativePath": "活动照片/16特邀/开展读书会.webp",
+      "group": "活动照片/16特邀"
+    },
+    {
+      "name": "现场调研德寿宫附近停车泊位情况",
+      "file": "images/活动照片/16特邀/现场调研德寿宫附近停车泊位情况.webp",
+      "sourceRelativePath": "活动照片/16特邀/现场调研德寿宫附近停车泊位情况.webp",
+      "group": "活动照片/16特邀"
+    },
+    {
+      "name": "现场调研湖滨步行街营商环境提升项目",
+      "file": "images/活动照片/16特邀/现场调研湖滨步行街营商环境提升项目.webp",
+      "sourceRelativePath": "活动照片/16特邀/现场调研湖滨步行街营商环境提升项目.webp",
+      "group": "活动照片/16特邀"
+    },
+    {
+      "name": "与商户开展座谈",
+      "file": "images/活动照片/16特邀/与商户开展座谈.webp",
+      "sourceRelativePath": "活动照片/16特邀/与商户开展座谈.webp",
+      "group": "活动照片/16特邀"
+    },
+    {
+      "name": "针对德寿宫周边一件事情况进行座谈",
+      "file": "images/活动照片/16特邀/针对德寿宫周边一件事情况进行座谈.webp",
+      "sourceRelativePath": "活动照片/16特邀/针对德寿宫周边一件事情况进行座谈.webp",
+      "group": "活动照片/16特邀"
+    },
+    {
+      "name": "2022.12.06 中共界别委员交流活动",
+      "file": "images/活动照片/1中共/2022.12.06 中共界别委员交流活动.webp",
+      "sourceRelativePath": "活动照片/1中共/2022.12.06 中共界别委员交流活动.webp",
+      "group": "活动照片/1中共"
+    },
+    {
+      "name": "2024.02.02 区政协一届三次会议中共界别小组讨论会",
+      "file": "images/活动照片/1中共/2024.02.02 区政协一届三次会议中共界别小组讨论会.webp",
+      "sourceRelativePath": "活动照片/1中共/2024.02.02 区政协一届三次会议中共界别小组讨论会.webp",
+      "group": "活动照片/1中共"
+    },
+    {
+      "name": "参加老旧小区物业提质协商议事",
+      "file": "images/活动照片/2无党派/参加老旧小区物业提质协商议事.webp",
+      "sourceRelativePath": "活动照片/2无党派/参加老旧小区物业提质协商议事.webp",
+      "group": "活动照片/2无党派"
+    },
+    {
+      "name": "范国良副主席参加无党派界别“洞悉当前宏观经济态势与战略投资机遇”主题分享活动",
+      "file": "images/活动照片/2无党派/范国良副主席参加无党派界别“洞悉当前宏观经济态势与战略投资机遇”主题分享活动.webp",
+      "sourceRelativePath": "活动照片/2无党派/范国良副主席参加无党派界别“洞悉当前宏观经济态势与战略投资机遇”主题分享活动.webp",
+      "group": "活动照片/2无党派"
+    },
+    {
+      "name": "范国良副主席为老字号工作室揭牌",
+      "file": "images/活动照片/2无党派/范国良副主席为老字号工作室揭牌.webp",
+      "sourceRelativePath": "活动照片/2无党派/范国良副主席为老字号工作室揭牌.webp",
+      "group": "活动照片/2无党派"
+    },
+    {
+      "name": "无党派界别赴区司法局调研涉外法律服务有关工作 ",
+      "file": "images/活动照片/2无党派/无党派界别赴区司法局调研涉外法律服务有关工作 .webp",
+      "sourceRelativePath": "活动照片/2无党派/无党派界别赴区司法局调研涉外法律服务有关工作 .webp",
+      "group": "活动照片/2无党派"
+    },
+    {
+      "name": "重阳节开展为老服务",
+      "file": "images/活动照片/2无党派/重阳节开展为老服务.webp",
+      "sourceRelativePath": "活动照片/2无党派/重阳节开展为老服务.webp",
+      "group": "活动照片/2无党派"
+    },
+    {
+      "name": "IMG_20240531_160417",
+      "file": "images/活动照片/3共青团、青联/IMG_20240531_160417.webp",
+      "sourceRelativePath": "活动照片/3共青团、青联/IMG_20240531_160417.webp",
+      "group": "活动照片/3共青团、青联"
+    },
+    {
+      "name": "mmexport1717153124428",
+      "file": "images/活动照片/3共青团、青联/mmexport1717153124428.webp",
+      "sourceRelativePath": "活动照片/3共青团、青联/mmexport1717153124428.webp",
+      "group": "活动照片/3共青团、青联"
+    },
+    {
+      "name": "mmexport1717153126963",
+      "file": "images/活动照片/3共青团、青联/mmexport1717153126963.webp",
+      "sourceRelativePath": "活动照片/3共青团、青联/mmexport1717153126963.webp",
+      "group": "活动照片/3共青团、青联"
+    },
+    {
+      "name": "mmexport1717153128393",
+      "file": "images/活动照片/3共青团、青联/mmexport1717153128393.webp",
+      "sourceRelativePath": "活动照片/3共青团、青联/mmexport1717153128393.webp",
+      "group": "活动照片/3共青团、青联"
+    },
+    {
+      "name": "2024年5月6日 上工大讲堂",
+      "file": "images/活动照片/4工会/2024年5月6日 上工大讲堂.webp",
+      "sourceRelativePath": "活动照片/4工会/2024年5月6日 上工大讲堂.webp",
+      "group": "活动照片/4工会"
+    },
+    {
+      "name": "5月25日2024年上城区职工毅行大会",
+      "file": "images/活动照片/4工会/5月25日2024年上城区职工毅行大会.webp",
+      "sourceRelativePath": "活动照片/4工会/5月25日2024年上城区职工毅行大会.webp",
+      "group": "活动照片/4工会"
+    },
+    {
+      "name": "5月25日2024年上城区职工毅行大会2",
+      "file": "images/活动照片/4工会/5月25日2024年上城区职工毅行大会2.webp",
+      "sourceRelativePath": "活动照片/4工会/5月25日2024年上城区职工毅行大会2.webp",
+      "group": "活动照片/4工会"
+    },
+    {
+      "name": "妇联界别调研牵头人高艳霞带队调研白马庄巾帼共富工坊，为调研报告积累素材",
+      "file": "images/活动照片/5妇联/妇联界别调研牵头人高艳霞带队调研白马庄巾帼共富工坊，为调研报告积累素材.webp",
+      "sourceRelativePath": "活动照片/5妇联/妇联界别调研牵头人高艳霞带队调研白马庄巾帼共富工坊，为调研报告积累素材.webp",
+      "group": "活动照片/5妇联"
+    },
+    {
+      "name": "妇联界别开展“品宋韵文化  做精致丽人”三八节活动",
+      "file": "images/活动照片/5妇联/妇联界别开展“品宋韵文化  做精致丽人”三八节活动.webp",
+      "sourceRelativePath": "活动照片/5妇联/妇联界别开展“品宋韵文化  做精致丽人”三八节活动.webp",
+      "group": "活动照片/5妇联"
+    },
+    {
+      "name": "妇联界别召集人吕仕琼开展“七一”慰问",
+      "file": "images/活动照片/5妇联/妇联界别召集人吕仕琼开展“七一”慰问.webp",
+      "sourceRelativePath": "活动照片/5妇联/妇联界别召集人吕仕琼开展“七一”慰问.webp",
+      "group": "活动照片/5妇联"
+    },
+    {
+      "name": "政协一届三次会议，妇联界别民宗界别合影",
+      "file": "images/活动照片/5妇联/政协一届三次会议，妇联界别民宗界别合影.webp",
+      "sourceRelativePath": "活动照片/5妇联/政协一届三次会议，妇联界别民宗界别合影.webp",
+      "group": "活动照片/5妇联"
+    },
+    {
+      "name": "深圳浙江商会考察钱二图片",
+      "file": "images/活动照片/6工商联/深圳浙江商会考察钱二图片.webp",
+      "sourceRelativePath": "活动照片/6工商联/深圳浙江商会考察钱二图片.webp",
+      "group": "活动照片/6工商联"
+    },
+    {
+      "name": "主体培训班合影",
+      "file": "images/活动照片/6工商联/主体培训班合影.webp",
+      "sourceRelativePath": "活动照片/6工商联/主体培训班合影.webp",
+      "group": "活动照片/6工商联"
+    },
+    {
+      "name": "组织民企500强部分人员参观考察钱二",
+      "file": "images/活动照片/6工商联/组织民企500强部分人员参观考察钱二.webp",
+      "sourceRelativePath": "活动照片/6工商联/组织民企500强部分人员参观考察钱二.webp",
+      "group": "活动照片/6工商联"
+    },
+    {
+      "name": "mmexport1711700143984",
+      "file": "images/活动照片/7科技、科协/mmexport1711700143984.webp",
+      "sourceRelativePath": "活动照片/7科技、科协/mmexport1711700143984.webp",
+      "group": "活动照片/7科技、科协"
+    },
+    {
+      "name": "mmexport1711702029812",
+      "file": "images/活动照片/7科技、科协/mmexport1711702029812.webp",
+      "sourceRelativePath": "活动照片/7科技、科协/mmexport1711702029812.webp",
+      "group": "活动照片/7科技、科协"
+    },
+    {
+      "name": "WechatIMG31",
+      "file": "images/活动照片/8侨、台/WechatIMG31.webp",
+      "sourceRelativePath": "活动照片/8侨、台/WechatIMG31.webp",
+      "group": "活动照片/8侨、台"
+    },
+    {
+      "name": "WechatIMG32",
+      "file": "images/活动照片/8侨、台/WechatIMG32.webp",
+      "sourceRelativePath": "活动照片/8侨、台/WechatIMG32.webp",
+      "group": "活动照片/8侨、台"
+    },
+    {
+      "name": "WechatIMG33",
+      "file": "images/活动照片/8侨、台/WechatIMG33.webp",
+      "sourceRelativePath": "活动照片/8侨、台/WechatIMG33.webp",
+      "group": "活动照片/8侨、台"
+    },
+    {
+      "name": "2023年8月，参观亚运会博物馆",
+      "file": "images/活动照片/9新闻文体/2023年8月，参观亚运会博物馆.webp",
+      "sourceRelativePath": "活动照片/9新闻文体/2023年8月，参观亚运会博物馆.webp",
+      "group": "活动照片/9新闻文体"
+    },
+    {
+      "name": "2023年8月，参观亚运会博物馆2",
+      "file": "images/活动照片/9新闻文体/2023年8月，参观亚运会博物馆2.webp",
+      "sourceRelativePath": "活动照片/9新闻文体/2023年8月，参观亚运会博物馆2.webp",
+      "group": "活动照片/9新闻文体"
+    }
+  ],
+  "counts": {
+    "tables": 0,
+    "documents": 1,
+    "jsonFiles": 0,
+    "files": 0,
+    "images": 50
+  }
+}

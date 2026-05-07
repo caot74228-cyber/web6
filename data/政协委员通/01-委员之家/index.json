@@ -1,0 +1,34 @@
+{
+  "title": "委员之家",
+  "slug": "weiyuanzhijia",
+  "sourceFolder": "素材/政协委员通/data/1. 委员之家",
+  "outputFolder": "data/政协委员通/01-委员之家",
+  "tables": [
+    {
+      "title": "1.界别委员名单",
+      "file": "tables/1.界别委员名单.json",
+      "sheetCount": 1
+    },
+    {
+      "title": "2.街道委员小组委员名单",
+      "file": "tables/2.街道委员小组委员名单.json",
+      "sheetCount": 1
+    },
+    {
+      "title": "3.专委会分组委员名单",
+      "file": "tables/3.专委会分组委员名单.json",
+      "sheetCount": 1
+    }
+  ],
+  "documents": [],
+  "jsonFiles": [],
+  "files": [],
+  "images": [],
+  "counts": {
+    "tables": 3,
+    "documents": 0,
+    "jsonFiles": 0,
+    "files": 0,
+    "images": 0
+  }
+}
